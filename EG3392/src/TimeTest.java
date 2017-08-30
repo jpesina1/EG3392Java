@@ -26,8 +26,7 @@ public class TimeTest {
 		SimpleDateFormat dateNow = new SimpleDateFormat("E MMM dd hh:mm:ss z y");
 	
 		System.out.println( dateNow.format(date));
-	}
-	
+	}	
 }
 
 //getEpochSeocond
