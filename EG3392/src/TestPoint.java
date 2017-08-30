@@ -7,10 +7,10 @@ public class TestPoint {
 		// TODO Auto-generated method stub
 		Scanner keyboard = new Scanner(System.in);
 		DecimalFormat two = new DecimalFormat("#.00");
-	//	  String angleFormated = two.format(g);
-		//  System.out.println(angleFormated);
+	//	Â Â String angleFormated = two.format(g);
+		//Â Â System.out.println(angleFormated);
 		
-		
+
 		
 		System.out.println("Program will calculate the distance between two points.");
 		
